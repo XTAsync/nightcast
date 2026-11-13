@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="nightcast logo" width="180" />
+</p>
+
 # Nightcast
 
 A browser-based shared media-room application for watching and listening together, with room management, synchronized playback, messaging, and real-time communication.
